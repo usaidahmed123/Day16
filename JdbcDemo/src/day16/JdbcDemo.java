@@ -1,4 +1,4 @@
-package jdbc;
+package day16;
 
 import java.sql.*; // Step 1 import 
 
